@@ -47,6 +47,6 @@ There are two ways to apply the matrix_glow theme to RStudio:
 
 ## BUGS
 
-If you spot awful looking colors please raise a GitHub issue. I will keep this theme updated. Due to the nature of .rstheme files it is not immediately visible for me whether everything is colored accodingly. I am open to any new ideas and suggestions also.
+If you spot awful looking colors please raise a GitHub issue. I will keep this theme updated. Due to the nature of .rstheme files it is not immediately visible for me whether everything is colored accordingly. I am open to any new ideas and suggestions also.
 
 *Have fun in the matrix*
