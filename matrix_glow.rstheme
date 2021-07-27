@@ -168,7 +168,7 @@
 }
 
 .ace_console_error {
-  background-color: #d700ff;
+  background-color: #65fb69;
 }
 
 
